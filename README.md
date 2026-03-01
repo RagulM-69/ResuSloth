@@ -4,6 +4,9 @@
 
 Built with **React + Vite**, **Tailwind CSS**, and **Google Gemini AI**. Deployed on **Vercel** (free, forever).
 
+Live Website:
+Check Out it
+https://resu-sloth.vercel.app/
 ---
 
 ## ✨ Features
